@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  align-items: center;
+  background: #b08bd7;
+  padding: 2rem 0;
+}
+
+.logo {
+  padding-right: 1rem;
+  width: 4rem;
+}
+
+.store-name{
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: white
+}

@@ -1,0 +1,19 @@
+aside {
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+  background: #b08bd7;
+  color: #fff;
+  padding-left: 2em;
+}
+
+aside h1 {
+  padding-top: 10rem;
+  font-size: 10rem;
+  line-height: 9rem;
+  padding-bottom: 2rem;
+}
+
+aside p {
+  width: 30rem;
+}
